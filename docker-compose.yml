@@ -9,7 +9,7 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - postgres_dbt_practice_data:/var/lib/postgresql/data
+      - /Users/praneetha/projects/praneetha/dbt-practice/postgres_dbt_practice_data/:/docker_data/
 
 volumes:
   postgres_dbt_practice_data:

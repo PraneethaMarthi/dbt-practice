@@ -39,3 +39,20 @@ cd postgres_dbt_practice
 dbt debug
 
 ```
+
+## 14OCT24
+```
+
+# Create a Docker Volume: docker volume create postgres_data
+Purpose: Store data persistently and mount it to the PostgreSQL container. 
+
+# Run a PostgreSQL Container and Mount a Volume
+
+COPY customers
+FROM '/docker_data/customer_data.csv'
+DELIMITER ','
+CSV HEADER;
+
+SELECT * FROM customers;
+
+1000-Products,100-Stores,100k-Sales,1000-Customers

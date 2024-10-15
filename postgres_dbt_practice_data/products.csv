@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Price,Stock,Brand,Discount_Percentage,Supplier_ID
+1,Product 1,Household,4,385,Diaz-Leblanc,38.63,1
+2,Product 2,Household,12,383,"Hayes, Bowers and Ho",30.74,207
+3,Product 3,Toys,23,200,"Holt, Shepard and Bailey",9.38,461
+4,Product 4,Household,43,415,Duffy-Roberts,29.57,310
+5,Product 5,Clothing,62,230,"Holden, Miller and Thompson",15.26,357
+6,Product 6,Toys,42,255,"Avila, Nelson and Murphy",24.92,494
+7,Product 7,Toys,26,177,Lucas Group,20.38,86
+8,Product 8,Clothing,71,193,Brooks-Mullins,12.91,96
+9,Product 9,Food,36,79,Olsen-Larsen,12.26,401
+10,Product 10,Clothing,98,418,"Simmons, Rodriguez and Newman",40.29,282
+11,Product 11,Household,3,311,Fitzgerald-Miller,1.98,399
+12,Product 12,Toys,10,446,Blevins Ltd,10.74,354
+13,Product 13,Food,16,451,Carr Inc,4.64,340
+14,Product 14,Clothing,4,375,Brown-Decker,1.1,105
+15,Product 15,Toys,21,216,Ramirez-Collier,30.37,177
+16,Product 16,Household,73,495,"Levy, Smith and Kidd",30.31,211
+17,Product 17,Clothing,1,108,Wright LLC,48.39,96
+18,Product 18,Toys,6,288,Cline-Gonzalez,16.82,103
+19,Product 19,Toys,94,369,Hood Inc,11.18,181
+20,Product 20,Electronics,30,492,Martinez-Cook,28.37,357
+21,Product 21,Clothing,88,486,"Clark, Avery and Davis",29.65,427
+22,Product 22,Food,5,429,Gonzalez-Brown,26.45,6
+23,Product 23,Food,70,173,"Norton, Peters and Lloyd",8.41,464
+24,Product 24,Toys,31,17,"Gregory, Johnson and Rice",33.21,231
+25,Product 25,Toys,14,224,Hernandez PLC,0.26,449
+26,Product 26,Food,0,24,"Sawyer, Hogan and Diaz",30.87,24
+27,Product 27,Toys,6,165,"Erickson, Harris and Walter",18.15,471
+28,Product 28,Toys,9,57,Shea Inc,22.87,299
+29,Product 29,Toys,94,32,Sweeney Ltd,8.08,351
+30,Product 30,Toys,0,168,Willis-Sparks,22.78,292
+31,Product 31,Household,42,482,Cantu Inc,49.65,414
+32,Product 32,Household,1,404,Brennan Group,33.01,175
+33,Product 33,Food,71,364,"Maxwell, Wilson and Edwards",11.71,118
+34,Product 34,Household,20,354,Fry-Parsons,0.57,89
+35,Product 35,Electronics,96,326,Hopkins Inc,16.31,190
+36,Product 36,Household,67,30,Gonzalez-Palmer,39.92,189
+37,Product 37,Food,71,443,Murillo Ltd,3.53,191
+38,Product 38,Household,83,220,"Howard, Moreno and Page",27.28,304
+39,Product 39,Electronics,43,300,"Campos, Torres and Ruiz",30.54,467
+40,Product 40,Toys,5,340,"Petty, Edwards and Mitchell",37.17,212
+41,Product 41,Toys,35,304,"Hernandez, Reilly and Doyle",47.2,287
+42,Product 42,Food,87,269,Santos-Lutz,37.91,440
+43,Product 43,Food,3,77,"Boyd, Haynes and Mcintosh",25.05,120
+44,Product 44,Household,84,205,Wiggins-Hartman,15.48,194
+45,Product 45,Food,36,90,Burnett LLC,15.61,227
+46,Product 46,Toys,10,160,"Kramer, Allen and Orozco",26.04,415
+47,Product 47,Electronics,97,338,"Pittman, Russell and Rice",48.79,451
+48,Product 48,Food,53,406,Powell PLC,33.95,128
+49,Product 49,Clothing,62,22,Howard PLC,14.42,399
+50,Product 50,Electronics,93,405,Larson-Chen,4.26,95
+51,Product 51,Food,61,323,Petty-Anderson,21.77,286
+52,Product 52,Household,51,302,"Davis, Coleman and Rodriguez",34.67,50
+53,Product 53,Household,55,384,"Middleton, Mcknight and Foster",34.51,27
+54,Product 54,Toys,15,335,Wall Inc,9.91,86
+55,Product 55,Food,59,387,Coleman-Kennedy,46.55,20
+56,Product 56,Clothing,74,434,Nguyen and Sons,21.93,16
+57,Product 57,Food,77,52,"Miller, Martin and Mendoza",21.63,83
+58,Product 58,Clothing,92,468,"Flynn, Anderson and Nelson",21.42,124
+59,Product 59,Electronics,85,60,Hopkins-Juarez,47.63,364
+60,Product 60,Toys,37,476,Zimmerman-Garcia,5.04,29
+61,Product 61,Clothing,62,364,Huang LLC,47.3,283
+62,Product 62,Food,67,134,Simpson-Gordon,38.34,19
+63,Product 63,Household,92,468,"Cruz, Shelton and Hill",36.19,373
+64,Product 64,Electronics,37,172,Smith Group,41.12,247
+65,Product 65,Toys,47,146,Singh Inc,26.3,414
+66,Product 66,Toys,91,207,Haynes LLC,16.47,459
+67,Product 67,Electronics,49,439,Villa-Frazier,10.42,19
+68,Product 68,Food,34,490,"Rodriguez, Freeman and Roberts",19.93,386
+69,Product 69,Electronics,21,489,"Ingram, Barker and Grant",21.74,140
+70,Product 70,Clothing,92,187,Thompson-Reyes,4.88,152
+71,Product 71,Household,46,214,Nichols and Sons,30.41,239
+72,Product 72,Household,63,109,"Ellison, Kelley and Wilson",44.33,73
+73,Product 73,Electronics,22,252,"Singh, Mathews and Schmitt",13.9,473
+74,Product 74,Food,25,31,Jackson Ltd,27.66,463
+75,Product 75,Household,73,298,"Green, Davis and Romero",34.27,51
+76,Product 76,Food,42,433,Vargas-Collins,19.91,337
+77,Product 77,Electronics,73,132,Donovan-Thomas,39.85,218
+78,Product 78,Food,10,172,Martinez-Mosley,13.07,446
+79,Product 79,Food,80,77,Rodriguez PLC,47.86,253
+80,Product 80,Toys,66,364,Moses and Sons,47.22,80
+81,Product 81,Toys,90,156,Ortega LLC,28.06,235
+82,Product 82,Household,73,349,Galvan Inc,47.3,240
+83,Product 83,Toys,71,106,Hill-Jackson,1.58,215
+84,Product 84,Toys,65,221,"Anderson, Harris and Humphrey",26.62,333
+85,Product 85,Electronics,45,194,Johnson-Woods,25.71,219
+86,Product 86,Electronics,40,351,"Contreras, Joseph and Dennis",39.05,37
+87,Product 87,Food,31,105,"Trevino, Williams and Phillips",30.46,102
+88,Product 88,Clothing,95,470,Bryant-Flynn,14.8,366
+89,Product 89,Toys,49,327,"Roy, Andersen and Case",10.67,404
+90,Product 90,Food,14,471,Hogan and Sons,6.97,288
+91,Product 91,Electronics,60,60,Powell Group,5.73,18
+92,Product 92,Food,16,136,"Reyes, Young and Gray",32.49,370
+93,Product 93,Electronics,20,83,"Avila, Rodriguez and Duncan",39.86,170
+94,Product 94,Food,92,113,Mitchell Inc,22.39,322
+95,Product 95,Household,37,463,"Blake, Ortiz and Miller",16.09,195
+96,Product 96,Household,56,235,Rangel-Short,46.84,479
+97,Product 97,Food,58,138,"Moore, Smith and Clark",1.45,355
+98,Product 98,Clothing,95,381,"Park, Salazar and Beasley",48.94,170
+99,Product 99,Electronics,93,386,Macdonald-Villegas,14.38,421
+100,Product 100,Electronics,31,103,Cordova LLC,31.47,129
+101,Product 101,Electronics,52,252,Snow Ltd,7.4,279
+102,Product 102,Toys,95,431,Moore-Martinez,13.92,52
+103,Product 103,Household,15,209,"Foster, Crawford and Harris",6.52,493
+104,Product 104,Food,91,206,Whitehead Ltd,42.98,209
+105,Product 105,Clothing,26,404,Graham Inc,40.93,181
+106,Product 106,Toys,54,414,Burke and Sons,5.03,62
+107,Product 107,Electronics,62,417,Hill-Garcia,25.21,202
+108,Product 108,Electronics,14,270,Valencia-Li,35.44,298
+109,Product 109,Electronics,27,166,Wright and Sons,30.03,180
+110,Product 110,Clothing,71,62,Becker-Reyes,10.73,396
+111,Product 111,Household,77,132,Kaufman-Bates,23.08,82
+112,Product 112,Electronics,29,110,Jones-Moore,28.95,318
+113,Product 113,Clothing,1,84,"Erickson, Collins and Bright",46.85,342
+114,Product 114,Household,61,315,"Franklin, Small and Ruiz",4.35,289
+115,Product 115,Household,44,249,Matthews Ltd,18.71,20
+116,Product 116,Electronics,12,131,"Clayton, Forbes and Cantrell",45.49,87
+117,Product 117,Electronics,40,269,Freeman and Sons,12.5,157
+118,Product 118,Electronics,80,442,"Garcia, Hodges and Hood",22.19,350
+119,Product 119,Electronics,32,306,"Anderson, Fernandez and Miller",39.6,125
+120,Product 120,Toys,94,345,Watson-Li,18.76,483
+121,Product 121,Clothing,51,404,Payne-Bowen,0.86,232
+122,Product 122,Electronics,18,22,"Hampton, Baldwin and Keith",20.31,160
+123,Product 123,Electronics,94,156,"Bell, Khan and Myers",14.95,279
+124,Product 124,Food,24,280,"Johnson, Hopkins and Martin",15.64,33
+125,Product 125,Clothing,69,384,Hart LLC,29.76,240
+126,Product 126,Household,63,423,Bridges-Barrett,2.88,69
+127,Product 127,Toys,57,379,"Holmes, Woods and Howell",36.13,337
+128,Product 128,Clothing,80,454,"Burnett, Ramsey and Thomas",5.0,380
+129,Product 129,Household,89,137,Stewart-Lane,28.35,499
+130,Product 130,Toys,21,226,"Landry, Cox and Stevens",17.64,172
+131,Product 131,Household,87,104,Reyes LLC,22.43,39
+132,Product 132,Household,53,100,Warren LLC,36.66,237
+133,Product 133,Clothing,0,376,Bush-Tanner,16.25,414
+134,Product 134,Electronics,75,334,"Kim, Thompson and Bush",17.29,180
+135,Product 135,Clothing,76,498,Williams and Sons,47.49,161
+136,Product 136,Household,15,202,Conway and Sons,45.24,329
+137,Product 137,Toys,31,410,"Hurley, Levy and Sutton",2.05,237
+138,Product 138,Food,19,474,"Lam, Flores and Lewis",15.57,426
+139,Product 139,Electronics,60,436,"Peterson, Preston and Parks",32.35,205
+140,Product 140,Clothing,88,166,Hill-Callahan,3.73,480
+141,Product 141,Household,84,354,Haney-Barron,36.99,410
+142,Product 142,Electronics,73,491,Smith LLC,25.1,197
+143,Product 143,Toys,18,481,Ward-Ferguson,45.72,22
+144,Product 144,Food,39,54,Carpenter Ltd,27.01,141
+145,Product 145,Food,9,147,"Lopez, Miller and Mora",17.17,59
+146,Product 146,Household,83,191,Soto LLC,32.98,316
+147,Product 147,Electronics,82,42,Gutierrez PLC,38.05,60
+148,Product 148,Toys,18,148,Sullivan-Hansen,18.84,327
+149,Product 149,Clothing,35,74,"Walker, Johnson and Jackson",7.76,83
+150,Product 150,Food,91,392,Wilson Inc,4.34,471
+151,Product 151,Clothing,17,483,Garcia LLC,48.79,72
+152,Product 152,Toys,83,13,"Harrell, Stone and Gonzalez",13.42,194
+153,Product 153,Toys,27,15,Lawson-Thomas,10.43,312
+154,Product 154,Toys,96,356,Roman-Moore,49.88,460
+155,Product 155,Toys,52,188,"Fields, Watson and Riley",34.12,340
+156,Product 156,Clothing,90,70,Ellis PLC,41.92,368
+157,Product 157,Clothing,64,238,Gilbert Ltd,6.0,361
+158,Product 158,Toys,87,45,Frazier-Sullivan,27.17,111
+159,Product 159,Toys,8,480,Glover PLC,33.76,132
+160,Product 160,Household,41,394,Walker-Tapia,20.02,164
+161,Product 161,Food,39,286,"Owens, Santiago and Romero",9.54,84
+162,Product 162,Toys,31,20,"Perry, Myers and Smith",12.32,435
+163,Product 163,Electronics,25,493,"Browning, Mosley and Kramer",2.12,151
+164,Product 164,Clothing,60,486,Espinoza-Shelton,8.76,413
+165,Product 165,Clothing,63,205,"Gonzalez, Gonzalez and Mora",10.75,330
+166,Product 166,Food,13,500,Carson PLC,7.6,411
+167,Product 167,Clothing,50,333,"Terry, Vance and Freeman",5.62,4
+168,Product 168,Clothing,30,398,Gibson LLC,31.32,499
+169,Product 169,Food,73,102,"Herman, Glover and Erickson",22.36,198
+170,Product 170,Electronics,56,287,Little-Jackson,19.43,317
+171,Product 171,Toys,60,474,Garrett and Sons,23.6,169
+172,Product 172,Household,79,153,Jensen and Sons,13.26,62
+173,Product 173,Electronics,93,413,Hartman-Vazquez,6.17,367
+174,Product 174,Electronics,71,223,"Riggs, Ochoa and Graham",29.5,349
+175,Product 175,Electronics,51,373,"Meyer, Larsen and Bailey",19.68,20
+176,Product 176,Household,89,115,Best Group,15.79,69
+177,Product 177,Toys,25,341,Jones PLC,11.08,307
+178,Product 178,Food,81,168,"Osborne, Martinez and Lawson",33.84,450
+179,Product 179,Toys,30,206,Gonzalez-Foley,16.01,472
+180,Product 180,Toys,39,29,Glenn Group,19.44,78
+181,Product 181,Toys,3,212,Barnes-Robinson,18.73,143
+182,Product 182,Electronics,95,125,Estrada-Jordan,15.87,157
+183,Product 183,Food,42,382,Miller-Lewis,37.03,390
+184,Product 184,Food,29,231,Rodriguez Group,25.53,197
+185,Product 185,Clothing,17,473,"Perez, Hood and Weiss",30.03,174
+186,Product 186,Electronics,98,184,Anderson LLC,19.41,31
+187,Product 187,Electronics,27,79,Jackson-Short,48.49,169
+188,Product 188,Household,27,351,"Hampton, Stevenson and Donovan",1.22,439
+189,Product 189,Household,88,414,Yang-Randall,36.81,271
+190,Product 190,Household,76,214,Torres Group,10.94,147
+191,Product 191,Clothing,39,389,Williams-Donovan,15.64,354
+192,Product 192,Household,36,421,Harmon-Smith,42.64,364
+193,Product 193,Electronics,59,353,"Wright, Ashley and Taylor",37.37,464
+194,Product 194,Electronics,13,436,Dennis-Mcbride,21.0,81
+195,Product 195,Toys,9,343,Payne Group,45.48,180
+196,Product 196,Toys,69,91,Patton-Reynolds,27.28,428
+197,Product 197,Toys,92,484,Lucas-Dawson,31.84,127
+198,Product 198,Toys,92,306,Sparks-Wilkerson,8.5,203
+199,Product 199,Food,10,207,Acosta-Barnes,47.34,456
+200,Product 200,Electronics,34,212,Allen Ltd,49.98,266
+201,Product 201,Household,24,416,Gordon-Mays,4.86,34
+202,Product 202,Electronics,7,326,Banks Group,39.92,477
+203,Product 203,Food,0,279,"Fernandez, Howard and Oliver",30.52,134
+204,Product 204,Clothing,38,207,"Young, Jackson and Bailey",21.8,102
+205,Product 205,Household,59,347,"Wright, Robertson and Miller",16.98,402
+206,Product 206,Food,38,228,Stein and Sons,19.26,323
+207,Product 207,Toys,5,366,"Washington, George and Griffith",12.05,193
+208,Product 208,Clothing,39,275,"Burton, Beck and Buck",39.92,248
+209,Product 209,Clothing,4,111,Ferguson-Lambert,17.04,209
+210,Product 210,Clothing,74,228,Roberts LLC,16.2,384
+211,Product 211,Toys,29,391,Payne-Heath,40.54,167
+212,Product 212,Food,76,92,Jones-Alvarez,28.63,225
+213,Product 213,Electronics,41,414,Navarro-Hernandez,14.15,381
+214,Product 214,Toys,27,200,Flores-Parrish,36.29,405
+215,Product 215,Food,71,457,Eaton-Woods,38.88,464
+216,Product 216,Toys,10,34,Ponce Group,12.73,84
+217,Product 217,Toys,23,21,"Barton, Martinez and Shepard",8.14,51
+218,Product 218,Toys,31,60,Barry-Young,47.51,136
+219,Product 219,Clothing,90,362,Scott PLC,44.14,99
+220,Product 220,Food,48,497,Henson-Miller,24.19,171
+221,Product 221,Clothing,34,161,Martin LLC,27.58,205
+222,Product 222,Household,5,42,Martinez and Sons,21.19,310
+223,Product 223,Electronics,2,67,Davis-Parsons,44.48,315
+224,Product 224,Electronics,12,466,Jones Inc,36.33,319
+225,Product 225,Household,41,20,Gonzalez-Williams,38.0,361
+226,Product 226,Household,73,255,"Nelson, Thomas and Mckee",38.45,265
+227,Product 227,Toys,13,234,Dickson-Davis,46.66,290
+228,Product 228,Household,30,432,"Harrell, Glass and Lawson",20.6,75
+229,Product 229,Toys,86,297,Mason-Cowan,24.61,384
+230,Product 230,Household,59,382,"Anderson, Coleman and Becker",39.04,26
+231,Product 231,Household,28,283,"Burch, Bullock and Martin",19.48,62
+232,Product 232,Food,74,128,Wilson Ltd,5.27,431
+233,Product 233,Toys,74,453,"Mcdaniel, Anderson and Williams",14.49,432
+234,Product 234,Household,63,180,Reynolds LLC,43.22,490
+235,Product 235,Clothing,18,361,"Campbell, Hughes and Long",15.16,162
+236,Product 236,Clothing,51,14,Pierce-Fowler,30.68,305
+237,Product 237,Toys,18,62,Ford Group,23.08,350
+238,Product 238,Toys,68,416,"Bell, Walker and Ramirez",13.26,261
+239,Product 239,Household,75,454,"Turner, Hinton and Rodriguez",31.12,350
+240,Product 240,Electronics,98,35,Anderson and Sons,41.88,304
+241,Product 241,Food,43,429,Strickland-Greene,9.94,418
+242,Product 242,Electronics,67,216,Jacobs PLC,2.29,131
+243,Product 243,Electronics,24,149,Long-Burgess,13.46,24
+244,Product 244,Household,53,413,Evans PLC,11.23,275
+245,Product 245,Household,90,60,English Inc,12.25,102
+246,Product 246,Clothing,15,396,Sanchez LLC,34.13,46
+247,Product 247,Household,76,274,Burton Inc,39.62,73
+248,Product 248,Household,10,230,"Charles, Scott and Arias",31.0,280
+249,Product 249,Clothing,95,391,Campbell-Abbott,17.16,93
+250,Product 250,Food,47,491,Collins LLC,10.78,426
+251,Product 251,Clothing,66,304,Hoffman Group,43.45,168
+252,Product 252,Electronics,94,486,"Barnes, Nelson and Garcia",26.93,326
+253,Product 253,Toys,46,92,"Smith, Vasquez and Bauer",13.11,61
+254,Product 254,Food,70,414,"Nelson, Mcpherson and Rose",11.34,263
+255,Product 255,Clothing,77,262,Hughes PLC,12.72,1
+256,Product 256,Toys,25,188,"Jones, Valentine and Turner",22.51,217
+257,Product 257,Household,23,283,Martinez-Payne,0.98,311
+258,Product 258,Toys,29,476,Stephenson-Russell,25.43,273
+259,Product 259,Household,50,352,Gomez and Sons,45.74,98
+260,Product 260,Toys,80,275,Williams LLC,46.77,47
+261,Product 261,Household,39,120,Meyer-Bennett,13.08,74
+262,Product 262,Toys,22,138,Walsh-Collins,28.93,473
+263,Product 263,Toys,61,464,Lindsey-Rangel,11.86,43
+264,Product 264,Food,40,431,Phillips-Fry,13.44,31
+265,Product 265,Household,71,161,Weaver and Sons,32.72,11
+266,Product 266,Household,55,119,"Rice, Smith and Larson",28.05,86
+267,Product 267,Household,13,255,Howard-Yang,40.85,222
+268,Product 268,Toys,12,87,Pierce-Reynolds,16.88,155
+269,Product 269,Toys,55,421,Morris PLC,17.89,209
+270,Product 270,Food,84,317,"Murillo, Smith and Page",11.03,314
+271,Product 271,Toys,57,224,Mosley Inc,38.57,241
+272,Product 272,Toys,2,181,Jimenez PLC,30.47,406
+273,Product 273,Electronics,12,130,Johnson Inc,9.98,369
+274,Product 274,Food,51,404,Harris-Evans,48.03,232
+275,Product 275,Toys,11,243,"Romero, Torres and Brooks",42.08,267
+276,Product 276,Food,71,298,Rasmussen and Sons,28.22,379
+277,Product 277,Food,57,253,"Oliver, Williams and Woodward",19.38,224
+278,Product 278,Food,80,269,Kelly LLC,36.46,47
+279,Product 279,Electronics,94,83,Taylor LLC,44.54,408
+280,Product 280,Electronics,79,349,Haynes-Stuart,26.27,409
+281,Product 281,Food,24,104,Adkins PLC,38.3,73
+282,Product 282,Food,56,195,"Mcgee, Stuart and Rice",20.23,132
+283,Product 283,Clothing,34,183,Brown Ltd,46.82,276
+284,Product 284,Clothing,98,355,"Gonzalez, Gamble and Jones",7.2,377
+285,Product 285,Clothing,78,466,Atkinson-Vincent,44.67,480
+286,Product 286,Toys,48,344,Martinez-Lewis,7.52,170
+287,Product 287,Food,94,47,Shah-Bell,15.53,181
+288,Product 288,Food,25,210,Johnson Group,6.15,420
+289,Product 289,Food,79,421,Sherman Inc,28.81,422
+290,Product 290,Food,30,122,Harris Ltd,19.46,41
+291,Product 291,Electronics,55,166,Smith-Lawson,23.48,332
+292,Product 292,Household,57,57,"Perez, Rodriguez and Gilbert",39.4,192
+293,Product 293,Household,66,233,Clarke-Fuentes,11.85,137
+294,Product 294,Food,57,114,"Kelly, Frazier and Smith",29.03,435
+295,Product 295,Clothing,52,182,Ford-Evans,36.43,339
+296,Product 296,Toys,16,45,"Payne, Moore and Thomas",29.52,129
+297,Product 297,Toys,55,283,Jordan-Williams,22.05,267
+298,Product 298,Food,24,462,Cook-Armstrong,3.18,102
+299,Product 299,Household,91,67,"Ross, Bonilla and Franklin",15.3,329
+300,Product 300,Electronics,40,485,Davis and Sons,34.28,70
+301,Product 301,Clothing,19,220,Day and Sons,8.91,2
+302,Product 302,Household,41,234,"Rose, Smith and Cook",18.23,278
+303,Product 303,Electronics,30,462,Vasquez and Sons,23.74,379
+304,Product 304,Electronics,10,419,"Edwards, Fleming and Armstrong",6.05,379
+305,Product 305,Electronics,1,302,"Beasley, Valentine and Wise",47.03,413
+306,Product 306,Toys,45,354,Elliott-Gibbs,48.06,197
+307,Product 307,Electronics,9,426,Fernandez and Sons,33.41,410
+308,Product 308,Food,89,307,Deleon-Harrison,19.59,320
+309,Product 309,Electronics,20,49,Lewis Inc,7.13,11
+310,Product 310,Household,96,368,"Fox, Smith and Brock",25.61,43
+311,Product 311,Toys,18,314,Moore-Burton,4.96,309
+312,Product 312,Toys,18,371,"Smith, Diaz and Kelley",34.82,171
+313,Product 313,Food,20,22,Baker Group,40.98,461
+314,Product 314,Electronics,48,247,Mason-Gonzalez,14.67,195
+315,Product 315,Toys,30,252,Cook Ltd,42.86,245
+316,Product 316,Food,46,10,Wall-Carpenter,2.32,114
+317,Product 317,Clothing,6,315,Smith PLC,16.13,155
+318,Product 318,Toys,12,96,"Clements, Bond and Levy",40.81,243
+319,Product 319,Toys,13,423,"Stanley, Klein and Richards",49.31,260
+320,Product 320,Food,64,494,Roth-Wolf,7.15,247
+321,Product 321,Food,17,442,Hart-Daugherty,40.52,55
+322,Product 322,Toys,17,103,Gaines Ltd,43.59,430
+323,Product 323,Clothing,65,421,"Duran, Murphy and Hendricks",20.55,181
+324,Product 324,Food,43,481,Murphy-Fowler,32.33,96
+325,Product 325,Food,73,263,Jones-Hess,44.38,159
+326,Product 326,Household,36,252,"Curtis, Bean and Martin",4.16,400
+327,Product 327,Toys,7,299,"Silva, Miller and Navarro",33.18,161
+328,Product 328,Electronics,30,362,Johnson-Bautista,44.61,143
+329,Product 329,Electronics,53,135,Suarez-Fry,29.8,406
+330,Product 330,Toys,51,33,Goodman and Sons,12.45,95
+331,Product 331,Toys,38,298,"Benitez, Little and Hunter",44.03,53
+332,Product 332,Clothing,46,379,"Hernandez, Robinson and Grimes",24.62,415
+333,Product 333,Electronics,55,46,Clark PLC,40.94,367
+334,Product 334,Clothing,1,59,"Campbell, Adams and Miller",49.87,480
+335,Product 335,Clothing,34,53,Cervantes-Cook,44.36,496
+336,Product 336,Electronics,61,206,"Horn, Brown and Valencia",39.68,261
+337,Product 337,Clothing,44,123,Howard-Gallagher,2.36,446
+338,Product 338,Clothing,1,93,"Castaneda, Booth and Anderson",29.46,295
+339,Product 339,Clothing,53,242,"Potter, Pearson and Burns",3.35,266
+340,Product 340,Electronics,67,250,Burnett Inc,1.71,250
+341,Product 341,Toys,23,436,"Baker, Kaufman and Morales",44.56,121
+342,Product 342,Food,94,265,Barnes-Parker,36.33,315
+343,Product 343,Toys,72,394,Nixon-James,13.58,452
+344,Product 344,Household,55,482,Fitzgerald-Strickland,12.89,192
+345,Product 345,Electronics,15,470,Simmons-Gross,7.57,187
+346,Product 346,Household,53,258,Medina-Wilson,12.37,7
+347,Product 347,Food,53,498,"King, Banks and Dixon",6.1,452
+348,Product 348,Food,65,394,"Collins, Chambers and Lopez",11.71,390
+349,Product 349,Food,81,27,Hart-Lindsey,12.3,492
+350,Product 350,Electronics,29,255,"Brennan, Burke and Holmes",5.57,39
+351,Product 351,Food,29,453,"Jones, Mendez and Mccoy",36.38,141
+352,Product 352,Electronics,44,93,"Herrera, Curtis and Garcia",31.1,440
+353,Product 353,Toys,98,99,Decker-Johnson,37.46,73
+354,Product 354,Clothing,4,260,Williams-Price,3.41,400
+355,Product 355,Electronics,89,415,Roberts-Best,28.73,73
+356,Product 356,Electronics,16,277,"Hernandez, Thompson and Haley",49.31,451
+357,Product 357,Electronics,16,285,White Ltd,40.29,86
+358,Product 358,Household,36,264,Stephenson-White,23.19,367
+359,Product 359,Toys,7,115,Nelson PLC,0.99,358
+360,Product 360,Food,20,135,"Jarvis, Berg and Perez",7.62,217
+361,Product 361,Food,26,10,Cole and Sons,12.18,313
+362,Product 362,Food,50,211,Smith Inc,18.05,413
+363,Product 363,Household,37,469,Rodriguez-Lee,41.28,125
+364,Product 364,Clothing,39,268,Frey Inc,12.41,115
+365,Product 365,Food,56,37,Carey PLC,5.72,332
+366,Product 366,Toys,43,33,Summers-Murray,18.64,156
+367,Product 367,Clothing,5,186,"Bush, Olson and Dominguez",21.9,143
+368,Product 368,Electronics,64,69,"Love, Marshall and Shepard",18.05,322
+369,Product 369,Food,40,24,"Rivera, Fisher and Atkins",36.68,485
+370,Product 370,Food,89,228,Camacho-Stone,36.63,436
+371,Product 371,Toys,30,377,Bruce Group,26.29,393
+372,Product 372,Household,57,378,Smith Ltd,9.36,307
+373,Product 373,Clothing,65,351,"Roberts, Young and Cardenas",13.07,265
+374,Product 374,Food,22,236,Hopkins-Stewart,39.0,392
+375,Product 375,Household,71,124,Gardner PLC,3.19,266
+376,Product 376,Clothing,30,333,"Smith, Thomas and Doyle",14.95,125
+377,Product 377,Electronics,3,177,Hines-Watkins,17.55,326
+378,Product 378,Clothing,79,237,"Ferguson, Dawson and Hughes",13.19,350
+379,Product 379,Clothing,66,46,"Lam, Trevino and Estrada",40.83,125
+380,Product 380,Electronics,84,182,"Dixon, Hudson and Bowers",15.77,476
+381,Product 381,Household,38,325,"Campbell, Clark and Elliott",22.61,203
+382,Product 382,Clothing,86,32,Fitzpatrick Group,9.91,343
+383,Product 383,Household,40,418,"Curtis, Griffith and Parker",30.16,465
+384,Product 384,Food,4,55,Wilson Group,38.0,130
+385,Product 385,Food,36,352,Roberts Ltd,49.0,459
+386,Product 386,Electronics,20,139,Deleon Inc,20.17,158
+387,Product 387,Electronics,5,351,Frazier Group,38.49,39
+388,Product 388,Toys,97,495,Adams-Rubio,4.46,64
+389,Product 389,Food,85,442,"Hampton, Ramirez and Collins",4.25,221
+390,Product 390,Toys,63,321,Lopez-Espinoza,20.59,285
+391,Product 391,Food,81,163,Shelton Ltd,14.49,212
+392,Product 392,Food,63,231,"Wilson, Camacho and Holmes",35.74,8
+393,Product 393,Food,77,453,"Wise, Jones and Rodriguez",35.68,200
+394,Product 394,Food,92,500,"Logan, Lucas and Johnson",40.25,248
+395,Product 395,Food,45,425,Grant-Roman,48.23,463
+396,Product 396,Food,75,56,Merritt and Sons,18.25,29
+397,Product 397,Clothing,36,265,Thomas LLC,14.15,172
+398,Product 398,Food,4,236,Thompson Ltd,22.58,212
+399,Product 399,Household,24,207,Sullivan and Sons,7.17,329
+400,Product 400,Clothing,25,226,Shelton-Miller,38.74,169
+401,Product 401,Electronics,7,38,"Newton, Morrison and Colon",37.96,120
+402,Product 402,Clothing,24,320,Morgan-Ashley,49.63,338
+403,Product 403,Household,55,442,"Terry, Taylor and Mitchell",22.31,206
+404,Product 404,Household,58,283,"Poole, Gray and Fuller",37.37,332
+405,Product 405,Clothing,7,403,Smith PLC,48.83,261
+406,Product 406,Food,39,222,Thompson-Parks,22.66,112
+407,Product 407,Clothing,98,204,Forbes-Davis,42.27,127
+408,Product 408,Household,38,11,Beard Ltd,8.2,94
+409,Product 409,Food,26,484,Hill Group,4.59,490
+410,Product 410,Toys,65,329,"Hickman, Pierce and Wallace",11.06,345
+411,Product 411,Household,67,169,Soto-Glenn,29.54,57
+412,Product 412,Electronics,97,256,Bradford-Howard,33.79,204
+413,Product 413,Household,74,305,Hernandez-Jackson,31.95,15
+414,Product 414,Clothing,23,89,Aguilar and Sons,36.23,453
+415,Product 415,Food,74,231,Lopez-Clarke,15.65,456
+416,Product 416,Food,70,468,"Love, Turner and Cooper",13.86,316
+417,Product 417,Electronics,69,338,White-Cannon,39.46,11
+418,Product 418,Household,47,39,"Castro, Reed and Lewis",9.92,60
+419,Product 419,Electronics,29,489,"Bradford, Ibarra and Chambers",10.28,148
+420,Product 420,Clothing,68,337,Lawson PLC,27.4,132
+421,Product 421,Toys,79,365,Ortiz and Sons,3.61,253
+422,Product 422,Electronics,86,403,Sullivan-Hammond,7.95,224
+423,Product 423,Food,32,402,Sullivan Group,20.98,475
+424,Product 424,Food,4,326,"Ramirez, Cunningham and Olson",3.78,87
+425,Product 425,Clothing,81,46,Johnson-Barr,4.39,441
+426,Product 426,Electronics,96,167,Jordan LLC,31.05,179
+427,Product 427,Toys,85,225,Baker-Taylor,10.28,375
+428,Product 428,Electronics,93,188,"Savage, Charles and Ward",38.35,462
+429,Product 429,Electronics,33,394,Pineda-Key,29.13,190
+430,Product 430,Clothing,86,268,Gonzales and Sons,34.73,371
+431,Product 431,Electronics,35,232,Newton-Johnson,40.6,145
+432,Product 432,Clothing,49,192,"Baker, Sanders and Flores",14.48,409
+433,Product 433,Household,37,144,Foster-Wood,46.72,28
+434,Product 434,Household,81,326,"Oliver, Farley and Douglas",35.49,201
+435,Product 435,Household,23,150,Sanchez-Wu,39.52,251
+436,Product 436,Clothing,94,359,Vance Group,41.06,33
+437,Product 437,Electronics,12,414,Espinoza-Stone,31.05,99
+438,Product 438,Electronics,50,204,Marsh Ltd,48.87,465
+439,Product 439,Toys,95,70,Schmidt-Hughes,6.73,465
+440,Product 440,Toys,27,446,"Johnson, Ramos and Garcia",49.09,292
+441,Product 441,Electronics,12,426,"Brown, Watts and Allen",1.0,321
+442,Product 442,Toys,6,206,Mercado-Franklin,20.85,300
+443,Product 443,Electronics,82,247,"Calhoun, Martin and Chan",10.7,135
+444,Product 444,Toys,98,468,Thomas-Mendoza,45.13,308
+445,Product 445,Clothing,45,58,"Dodson, Nicholson and Fisher",6.84,167
+446,Product 446,Food,54,421,"Mcdowell, Mullins and Perry",31.25,23
+447,Product 447,Electronics,28,200,"Glass, Nelson and Schneider",35.67,475
+448,Product 448,Toys,23,310,"Hammond, Galloway and Harvey",33.94,498
+449,Product 449,Toys,79,220,"Griffin, Schroeder and Thomas",0.06,99
+450,Product 450,Electronics,88,20,"Robertson, Barnett and Perez",48.91,238
+451,Product 451,Toys,32,291,"Anderson, Riggs and Wells",5.74,416
+452,Product 452,Household,38,38,Middleton-Jones,8.24,198
+453,Product 453,Toys,84,401,Tucker-Gomez,32.76,313
+454,Product 454,Electronics,43,231,"Ramirez, Johnson and Scott",45.36,450
+455,Product 455,Clothing,18,306,Robinson Inc,26.76,275
+456,Product 456,Clothing,95,309,Shaffer Inc,16.07,499
+457,Product 457,Food,59,118,Sanders-Gonzales,37.98,165
+458,Product 458,Clothing,69,443,Mcgee Group,31.02,36
+459,Product 459,Clothing,37,365,York PLC,26.83,126
+460,Product 460,Clothing,83,395,Moore LLC,44.05,470
+461,Product 461,Food,6,240,"Wilson, Fowler and Green",27.43,464
+462,Product 462,Clothing,69,465,Hendrix-Hicks,44.79,296
+463,Product 463,Toys,58,401,"White, Hahn and Brown",44.67,294
+464,Product 464,Toys,87,183,Smith PLC,49.11,300
+465,Product 465,Electronics,94,434,Tate-Bowers,3.93,21
+466,Product 466,Electronics,92,320,Atkinson Ltd,16.59,89
+467,Product 467,Food,66,265,Brown and Sons,5.89,361
+468,Product 468,Clothing,76,348,Rose-Lopez,44.54,161
+469,Product 469,Electronics,11,45,"Randall, Long and Medina",44.32,448
+470,Product 470,Electronics,82,238,Ramirez-Hernandez,32.31,208
+471,Product 471,Food,5,268,Terry PLC,49.6,300
+472,Product 472,Toys,31,262,Short LLC,7.43,409
+473,Product 473,Toys,24,408,"Hardy, Martinez and Higgins",33.98,107
+474,Product 474,Toys,39,431,Stanley-Lam,0.4,299
+475,Product 475,Clothing,3,274,Mitchell-Pena,30.25,494
+476,Product 476,Household,75,244,"Simpson, Savage and Randall",33.81,214
+477,Product 477,Clothing,78,198,"Anderson, Campbell and Mckinney",8.14,341
+478,Product 478,Toys,42,120,Obrien Ltd,0.78,234
+479,Product 479,Toys,42,161,West LLC,42.17,491
+480,Product 480,Clothing,33,438,Hudson-Wheeler,16.06,381
+481,Product 481,Household,49,315,Hill-Mason,19.26,298
+482,Product 482,Clothing,2,24,"Avila, Nichols and Davis",5.29,144
+483,Product 483,Toys,77,310,Key-Gilbert,35.86,396
+484,Product 484,Electronics,80,489,"Bryant, Ramirez and Wilson",22.41,29
+485,Product 485,Toys,54,421,Ramirez LLC,11.69,194
+486,Product 486,Electronics,72,55,Yu-Bean,28.22,267
+487,Product 487,Electronics,6,11,Reed Group,25.87,411
+488,Product 488,Toys,42,122,Murray Inc,11.03,52
+489,Product 489,Household,82,412,"Barrera, Mills and Dunlap",45.65,277
+490,Product 490,Clothing,6,357,Lee-Dennis,13.69,370
+491,Product 491,Household,65,259,Gonzalez Ltd,32.48,118
+492,Product 492,Household,81,175,Hart-Smith,38.81,485
+493,Product 493,Household,93,434,"Ford, Russell and Flores",19.62,256
+494,Product 494,Toys,45,397,Cuevas Group,6.45,154
+495,Product 495,Toys,22,370,Gordon-Gomez,14.56,416
+496,Product 496,Household,89,99,"Miller, Henderson and Morris",36.94,387
+497,Product 497,Food,27,270,"Jackson, Smith and Miller",12.07,281
+498,Product 498,Household,60,358,Walker Ltd,7.66,117
+499,Product 499,Household,4,204,"Davis, Schroeder and Davis",12.87,468
+500,Product 500,Clothing,16,93,"Salazar, Griffin and Clarke",49.85,217
+501,Product 501,Electronics,41,304,Peters and Sons,38.27,139
+502,Product 502,Food,74,360,Morales-White,36.64,187
+503,Product 503,Household,46,130,Klein Ltd,0.9,34
+504,Product 504,Electronics,30,243,Williams-Wright,25.86,462
+505,Product 505,Food,98,317,Olsen Group,13.05,80
+506,Product 506,Food,82,331,"Sellers, Lane and Wilson",5.41,423
+507,Product 507,Household,52,484,Parker-Gregory,21.61,463
+508,Product 508,Household,31,387,Shaw Group,50.0,26
+509,Product 509,Household,24,474,"Williams, Hebert and Hardin",45.17,385
+510,Product 510,Electronics,13,265,Walter-Curtis,23.97,206
+511,Product 511,Food,2,469,"Jefferson, Dunn and Ellison",14.87,116
+512,Product 512,Clothing,56,290,Reyes Inc,43.81,122
+513,Product 513,Household,85,36,Strong-Evans,30.55,491
+514,Product 514,Clothing,64,478,Russell-Brown,49.67,62
+515,Product 515,Clothing,66,406,"Owens, French and Taylor",27.58,164
+516,Product 516,Electronics,81,493,Dennis Group,8.23,5
+517,Product 517,Household,40,487,Walsh-Harper,40.64,315
+518,Product 518,Food,14,468,"Scott, Stokes and Thomas",8.05,408
+519,Product 519,Clothing,71,336,Brewer-Collins,13.24,359
+520,Product 520,Household,34,28,Craig and Sons,13.5,344
+521,Product 521,Electronics,47,146,Carter and Sons,11.22,245
+522,Product 522,Clothing,53,367,Bryan-Orr,28.02,424
+523,Product 523,Toys,79,406,"Gonzalez, Gross and Pitts",46.66,2
+524,Product 524,Household,9,125,Robles-Kelly,49.72,210
+525,Product 525,Food,95,195,Ford Ltd,0.29,182
+526,Product 526,Clothing,2,380,Middleton and Sons,18.5,165
+527,Product 527,Household,21,347,Ingram and Sons,47.94,3
+528,Product 528,Food,28,36,Shelton-Price,19.14,15
+529,Product 529,Clothing,17,266,Goodman Inc,36.27,360
+530,Product 530,Food,23,131,Mitchell-Garner,7.13,121
+531,Product 531,Household,7,155,Oconnell PLC,13.8,392
+532,Product 532,Household,37,25,Crane-Snyder,14.67,17
+533,Product 533,Electronics,41,17,Wheeler-Thomas,1.91,66
+534,Product 534,Electronics,41,324,"Richards, Howell and Russell",23.62,44
+535,Product 535,Food,64,235,"Harris, Foster and Phillips",36.57,287
+536,Product 536,Food,92,350,Davis-Melendez,37.18,488
+537,Product 537,Food,22,410,"Marquez, Roman and Johnson",44.49,209
+538,Product 538,Household,47,463,Chavez and Sons,17.79,189
+539,Product 539,Electronics,84,449,Smith Inc,23.63,292
+540,Product 540,Clothing,58,478,"Robbins, Hernandez and Boyle",45.98,41
+541,Product 541,Electronics,37,209,Klein LLC,2.82,337
+542,Product 542,Household,87,271,Sanchez LLC,6.2,253
+543,Product 543,Clothing,4,295,"Hunter, Medina and Kelly",19.27,328
+544,Product 544,Food,76,468,Griffin-Ritter,9.02,431
+545,Product 545,Electronics,20,219,West-Andrews,28.05,166
+546,Product 546,Electronics,36,284,Kelly-Paul,42.52,255
+547,Product 547,Electronics,69,330,Jackson-Crawford,38.62,217
+548,Product 548,Toys,59,189,Ramirez PLC,48.9,217
+549,Product 549,Clothing,20,478,Sanchez-Jones,8.23,132
+550,Product 550,Household,16,348,Reed PLC,41.78,190
+551,Product 551,Toys,31,140,"Jacobs, Spencer and Bradley",33.54,174
+552,Product 552,Electronics,13,274,"Moore, Floyd and Winters",33.3,98
+553,Product 553,Clothing,68,105,Hunt LLC,36.73,307
+554,Product 554,Household,92,16,"Williams, Davis and Wilson",18.4,323
+555,Product 555,Toys,52,492,West PLC,29.8,130
+556,Product 556,Toys,13,202,Wilson-Nguyen,42.61,369
+557,Product 557,Toys,13,169,Dixon Ltd,20.3,477
+558,Product 558,Household,20,221,Harper Inc,15.33,415
+559,Product 559,Clothing,40,257,Cole-Davis,38.55,285
+560,Product 560,Household,23,486,"Garner, Joseph and Griffin",33.51,64
+561,Product 561,Electronics,74,33,"Wilson, Taylor and Hill",24.14,4
+562,Product 562,Toys,48,313,Valentine-Jones,45.03,427
+563,Product 563,Clothing,77,443,Davis-Brown,49.13,289
+564,Product 564,Clothing,67,278,Harper-Hansen,10.89,93
+565,Product 565,Food,4,27,"Gray, Zimmerman and Kirby",19.96,116
+566,Product 566,Household,81,75,Black Group,24.72,411
+567,Product 567,Electronics,77,414,"Ward, Carter and Bell",35.05,341
+568,Product 568,Household,58,322,Ross Inc,26.09,392
+569,Product 569,Household,0,12,Romero and Sons,49.68,494
+570,Product 570,Household,81,37,Johnson-Horton,12.47,457
+571,Product 571,Toys,87,343,Klein-Hamilton,2.02,254
+572,Product 572,Clothing,17,454,Mclaughlin-Brown,23.01,68
+573,Product 573,Clothing,36,341,"Bullock, Downs and Watson",42.1,48
+574,Product 574,Toys,4,161,"Norris, Anderson and Cameron",23.97,314
+575,Product 575,Food,81,97,"Brooks, Hill and Taylor",21.61,13
+576,Product 576,Toys,71,405,"Walker, Orr and Lyons",49.08,105
+577,Product 577,Toys,91,86,Vang-Hernandez,16.39,14
+578,Product 578,Electronics,65,202,Leon Inc,17.12,255
+579,Product 579,Household,49,485,Mccarthy-Miller,10.26,255
+580,Product 580,Clothing,8,206,Davidson-Miller,27.71,223
+581,Product 581,Electronics,85,71,"Stewart, Rivera and Mayer",5.27,262
+582,Product 582,Electronics,63,153,Navarro PLC,21.43,345
+583,Product 583,Electronics,72,103,"Bishop, Stewart and Sandoval",45.66,124
+584,Product 584,Toys,13,266,"Harris, Rice and Barnes",23.81,474
+585,Product 585,Household,0,67,Rogers PLC,39.43,165
+586,Product 586,Toys,87,349,Johnston PLC,20.52,385
+587,Product 587,Toys,21,458,Morris-Smith,34.11,198
+588,Product 588,Food,97,351,Hunt-Bell,34.46,285
+589,Product 589,Electronics,43,357,Guerra Ltd,1.69,72
+590,Product 590,Toys,48,435,Bailey Ltd,23.53,341
+591,Product 591,Clothing,26,86,Davis PLC,43.99,264
+592,Product 592,Food,26,321,"Hernandez, Hayes and Brown",27.76,54
+593,Product 593,Food,29,171,"Bishop, Lewis and Lee",28.72,202
+594,Product 594,Food,31,226,"Mitchell, Little and Doyle",31.81,441
+595,Product 595,Toys,60,36,"Henry, Rubio and Fisher",42.23,131
+596,Product 596,Electronics,54,216,Garza LLC,3.33,144
+597,Product 597,Toys,35,107,Shepherd-Green,37.89,284
+598,Product 598,Food,68,234,"Brown, Oliver and Brown",36.17,31
+599,Product 599,Toys,79,61,Costa Ltd,39.56,458
+600,Product 600,Electronics,94,30,Gilmore LLC,37.59,135
+601,Product 601,Clothing,64,23,Chavez LLC,44.23,248
+602,Product 602,Toys,44,30,Ramirez-Cherry,3.73,338
+603,Product 603,Clothing,89,321,"Morris, Hernandez and Hernandez",6.53,404
+604,Product 604,Electronics,12,167,"Bishop, Herrera and Larson",42.49,434
+605,Product 605,Food,63,343,"Reed, Bonilla and Simmons",48.34,41
+606,Product 606,Electronics,73,175,Meadows-Myers,11.28,195
+607,Product 607,Household,85,444,Wright Ltd,8.65,301
+608,Product 608,Household,59,126,Ramos-Glenn,43.64,346
+609,Product 609,Clothing,7,160,Warner and Sons,8.58,263
+610,Product 610,Toys,80,96,"Foster, Davis and Marsh",29.4,331
+611,Product 611,Electronics,84,401,"Bentley, Lee and Douglas",44.89,413
+612,Product 612,Food,53,466,Moran and Sons,22.15,497
+613,Product 613,Clothing,29,219,"Andrews, Owens and Bowen",32.26,467
+614,Product 614,Clothing,60,361,"Curtis, Kelly and Ayers",30.96,330
+615,Product 615,Toys,38,396,"Clark, Johnson and Cannon",45.72,154
+616,Product 616,Food,12,353,Avila-Miller,38.78,77
+617,Product 617,Toys,94,438,Baldwin PLC,24.51,27
+618,Product 618,Household,86,104,"Cruz, Brooks and Guzman",22.13,159
+619,Product 619,Household,84,311,Baker Ltd,47.35,187
+620,Product 620,Clothing,78,372,Delacruz-Turner,24.75,259
+621,Product 621,Toys,78,79,"Adkins, Lopez and Stanton",27.36,204
+622,Product 622,Clothing,94,220,"Gonzales, Adams and Carter",0.84,68
+623,Product 623,Food,44,482,Edwards-Brewer,9.84,16
+624,Product 624,Clothing,84,366,Calhoun-Pruitt,14.91,461
+625,Product 625,Electronics,83,368,"Fields, Morgan and Mcguire",45.23,216
+626,Product 626,Clothing,16,419,"Arellano, Nichols and Reese",35.39,352
+627,Product 627,Food,19,124,Allison Group,24.25,254
+628,Product 628,Clothing,31,27,Wilkerson Inc,4.82,257
+629,Product 629,Clothing,58,437,"Ramirez, Downs and Reed",5.06,14
+630,Product 630,Toys,72,212,"Morris, Stewart and Conner",12.5,75
+631,Product 631,Toys,91,463,"Horn, Warner and Day",35.53,244
+632,Product 632,Household,84,35,Anderson-Lewis,18.81,274
+633,Product 633,Food,20,499,Collins-Jackson,11.55,6
+634,Product 634,Household,38,127,Robinson-Torres,27.62,354
+635,Product 635,Food,77,402,Lawrence-Baker,12.06,499
+636,Product 636,Household,8,111,Mclaughlin Ltd,26.63,336
+637,Product 637,Electronics,59,238,"Kirby, Nash and Porter",21.08,479
+638,Product 638,Clothing,67,150,"Adams, Campbell and Williams",22.99,80
+639,Product 639,Household,38,409,"Jones, Vazquez and Weber",11.89,307
+640,Product 640,Electronics,47,226,Reynolds-Massey,22.89,198
+641,Product 641,Clothing,91,474,Brown Group,29.91,324
+642,Product 642,Electronics,23,125,Dickerson-Williams,22.95,207
+643,Product 643,Household,24,295,Cook-Hoffman,45.84,287
+644,Product 644,Toys,22,337,Pruitt-Sparks,17.58,423
+645,Product 645,Toys,27,127,Powell-Black,39.27,234
+646,Product 646,Food,36,461,Ponce Inc,28.34,264
+647,Product 647,Electronics,8,120,"Walker, Adams and Johnson",33.08,34
+648,Product 648,Household,59,82,Wilson Inc,5.16,238
+649,Product 649,Toys,98,161,"Garrison, Russell and Wagner",38.31,153
+650,Product 650,Toys,8,136,Wilson Group,23.86,448
+651,Product 651,Toys,24,478,"Walker, Stanley and Johnston",49.82,318
+652,Product 652,Clothing,55,37,"Wu, Vaughan and Clark",16.92,114
+653,Product 653,Household,60,112,Rogers PLC,41.47,162
+654,Product 654,Food,98,166,Jones-Howard,23.56,355
+655,Product 655,Toys,98,336,Miller-Gonzalez,19.73,402
+656,Product 656,Food,52,50,"Johnson, Watson and Stuart",38.03,70
+657,Product 657,Toys,35,278,"Ritter, Mendez and Kent",1.97,450
+658,Product 658,Toys,52,265,"Adams, Roberts and Zimmerman",34.22,362
+659,Product 659,Electronics,73,209,"Moreno, Alexander and Simmons",49.2,156
+660,Product 660,Clothing,22,122,Velasquez-Bryan,28.99,286
+661,Product 661,Household,78,454,Rice Group,26.32,97
+662,Product 662,Food,14,371,Baker-Mckinney,0.3,413
+663,Product 663,Electronics,79,164,Rodriguez Group,0.27,418
+664,Product 664,Household,3,114,Hernandez and Sons,33.38,402
+665,Product 665,Toys,79,114,Lopez-Schroeder,14.89,131
+666,Product 666,Toys,21,420,Berger-Brown,29.39,45
+667,Product 667,Household,1,94,"Greene, Craig and Jackson",23.05,243
+668,Product 668,Household,32,89,Reid and Sons,4.76,254
+669,Product 669,Toys,32,35,Holloway-Diaz,8.54,186
+670,Product 670,Toys,53,188,Quinn-Johnson,40.46,164
+671,Product 671,Electronics,4,274,"Webb, Tate and Daniel",48.45,265
+672,Product 672,Toys,90,429,Rose-Velasquez,2.28,412
+673,Product 673,Food,93,118,Mcneil-Padilla,49.07,304
+674,Product 674,Electronics,92,382,Fox Inc,2.38,279
+675,Product 675,Toys,11,31,"Tyler, Murphy and Moore",19.61,491
+676,Product 676,Toys,90,223,Mcneil-Williams,44.03,9
+677,Product 677,Electronics,11,52,Cobb-Ramirez,44.08,497
+678,Product 678,Food,98,166,"Bryant, Lewis and Clark",42.16,268
+679,Product 679,Household,14,442,"Miller, Davis and Cruz",46.87,151
+680,Product 680,Toys,63,338,Jenkins-Martinez,28.66,117
+681,Product 681,Clothing,52,491,Shea Group,34.24,174
+682,Product 682,Household,69,303,Lambert and Sons,22.17,414
+683,Product 683,Food,79,413,"Salazar, Johnson and Salazar",17.89,38
+684,Product 684,Clothing,65,390,Moreno Group,28.21,242
+685,Product 685,Household,89,347,Francis Group,25.95,463
+686,Product 686,Toys,49,167,"Ferguson, Santana and Smith",20.55,30
+687,Product 687,Food,1,493,"Henderson, Ramirez and Clark",3.57,204
+688,Product 688,Toys,41,462,Blevins-Wade,16.99,81
+689,Product 689,Electronics,97,270,Boyle-Rivera,39.29,473
+690,Product 690,Household,95,172,Roman and Sons,23.09,315
+691,Product 691,Electronics,41,334,Vargas-Robinson,47.85,148
+692,Product 692,Clothing,58,192,Smith LLC,45.96,283
+693,Product 693,Clothing,41,395,"Forbes, Sherman and Stewart",49.62,371
+694,Product 694,Clothing,85,34,Miles and Sons,26.11,109
+695,Product 695,Food,75,168,Sanchez-Green,14.8,373
+696,Product 696,Clothing,76,338,"Powell, Ramos and Myers",6.15,343
+697,Product 697,Electronics,64,239,Stevens Ltd,10.14,138
+698,Product 698,Clothing,0,337,Thomas PLC,48.21,180
+699,Product 699,Food,18,103,"Taylor, Clayton and Johnson",35.97,171
+700,Product 700,Electronics,68,16,Barker Group,17.26,183
+701,Product 701,Food,54,112,Miles and Sons,20.0,424
+702,Product 702,Electronics,24,378,Herrera PLC,4.45,102
+703,Product 703,Household,3,172,Johnson LLC,30.55,190
+704,Product 704,Household,13,483,Flores and Sons,18.52,496
+705,Product 705,Toys,41,189,Clayton-Williams,46.31,385
+706,Product 706,Food,21,356,"Fitzgerald, Terrell and Valentine",49.72,442
+707,Product 707,Food,5,339,"Taylor, Morales and Adams",44.65,381
+708,Product 708,Clothing,50,367,"Kelly, Hicks and Mcguire",38.15,403
+709,Product 709,Toys,59,167,Cunningham Ltd,1.85,334
+710,Product 710,Electronics,48,65,Willis and Sons,27.62,225
+711,Product 711,Electronics,8,113,Edwards Ltd,1.53,195
+712,Product 712,Electronics,21,451,"Knight, Robinson and Jones",5.18,354
+713,Product 713,Food,67,95,Fry Group,1.03,147
+714,Product 714,Clothing,13,287,"Brown, Lewis and Miller",5.07,295
+715,Product 715,Food,1,270,"Marshall, Moreno and Gutierrez",2.84,488
+716,Product 716,Electronics,95,467,Young LLC,10.17,316
+717,Product 717,Food,23,376,Jordan-Patrick,48.82,62
+718,Product 718,Household,29,416,Palmer-Harrison,18.06,64
+719,Product 719,Electronics,49,388,Jenkins and Sons,10.65,140
+720,Product 720,Clothing,90,472,Holland Ltd,12.22,20
+721,Product 721,Food,22,341,Gonzalez-Wise,0.02,499
+722,Product 722,Toys,12,349,Hernandez and Sons,7.15,453
+723,Product 723,Food,96,63,"Taylor, Fowler and Davis",22.83,409
+724,Product 724,Toys,79,159,"Griffith, Garcia and Jones",29.26,215
+725,Product 725,Electronics,32,46,"Zamora, Arellano and Johnson",21.07,398
+726,Product 726,Electronics,56,467,Carter-Fletcher,33.39,194
+727,Product 727,Electronics,2,215,Shaffer-Haynes,40.16,179
+728,Product 728,Toys,37,112,Vargas-Baker,19.28,435
+729,Product 729,Food,42,225,Medina-Hall,13.95,184
+730,Product 730,Household,38,126,Cruz-Sandoval,47.19,490
+731,Product 731,Electronics,67,449,"Moreno, Boyd and Adkins",32.8,142
+732,Product 732,Household,32,101,Johnson PLC,42.56,407
+733,Product 733,Clothing,20,208,Silva LLC,31.54,246
+734,Product 734,Clothing,56,225,"Atkinson, Kelly and Hendricks",20.98,214
+735,Product 735,Electronics,33,411,Carter-Oconnor,0.62,398
+736,Product 736,Toys,6,42,"Delgado, Harris and Livingston",34.51,56
+737,Product 737,Household,44,23,Jones Inc,12.92,383
+738,Product 738,Electronics,90,194,Snyder-Campbell,36.61,233
+739,Product 739,Food,37,409,Fisher Inc,27.48,256
+740,Product 740,Clothing,1,27,Burke Ltd,21.42,202
+741,Product 741,Electronics,18,452,Smith PLC,49.34,119
+742,Product 742,Electronics,9,363,Harrington Inc,30.25,324
+743,Product 743,Food,18,448,"Smith, White and Johnson",20.83,335
+744,Product 744,Toys,11,55,Mann PLC,20.55,227
+745,Product 745,Electronics,92,322,Peck-Kelly,16.72,308
+746,Product 746,Household,47,373,Huang-Wright,48.84,343
+747,Product 747,Electronics,37,125,Grant-Garcia,22.41,70
+748,Product 748,Household,74,168,Williams-Bates,29.73,242
+749,Product 749,Household,20,206,Wiggins-Collins,10.09,164
+750,Product 750,Food,21,43,"Moreno, Dunlap and Andrews",13.53,119
+751,Product 751,Food,5,82,Myers-Jenkins,15.43,72
+752,Product 752,Household,24,30,Mendoza-Morgan,38.55,426
+753,Product 753,Household,78,21,Scott PLC,11.99,270
+754,Product 754,Toys,39,87,Carr Group,12.53,387
+755,Product 755,Household,34,205,Moran and Sons,34.85,455
+756,Product 756,Household,68,90,Prince PLC,22.87,131
+757,Product 757,Food,60,213,Strong PLC,10.65,94
+758,Product 758,Electronics,12,180,Hudson Group,5.84,482
+759,Product 759,Electronics,72,440,Moore-Smith,47.27,42
+760,Product 760,Food,32,446,Gray-Mccann,29.68,472
+761,Product 761,Clothing,66,242,Graham Group,30.74,469
+762,Product 762,Food,86,463,Gibson-Green,37.65,66
+763,Product 763,Food,10,396,Ayala Inc,33.69,359
+764,Product 764,Clothing,52,255,Brown-Mitchell,47.4,245
+765,Product 765,Clothing,27,99,"White, Rodriguez and Mckay",0.32,246
+766,Product 766,Toys,69,273,Williams-Gibson,8.04,89
+767,Product 767,Toys,90,466,Brooks-Gamble,17.84,19
+768,Product 768,Food,61,273,"Guzman, Johnson and Gomez",12.57,226
+769,Product 769,Clothing,24,263,Mccarty-Simmons,18.76,24
+770,Product 770,Household,68,398,Chase-Small,24.45,357
+771,Product 771,Clothing,64,155,Brady-Ryan,46.83,285
+772,Product 772,Household,38,225,Smith Group,0.06,179
+773,Product 773,Household,29,105,"Mack, Morris and Costa",9.14,119
+774,Product 774,Household,77,182,Meyers-Cobb,46.12,160
+775,Product 775,Electronics,24,360,Ford PLC,33.34,293
+776,Product 776,Household,95,392,Daugherty-Flores,48.19,308
+777,Product 777,Clothing,53,425,"Mccarthy, Barron and Reed",24.44,213
+778,Product 778,Household,79,20,"Franklin, Hoffman and Smith",30.8,256
+779,Product 779,Food,6,480,Jackson-Ross,7.54,211
+780,Product 780,Food,30,475,Hogan-Webb,46.03,356
+781,Product 781,Food,15,56,Schroeder Group,24.55,411
+782,Product 782,Toys,99,217,Mata-Thompson,1.99,457
+783,Product 783,Electronics,2,417,"Phelps, Warren and Hatfield",15.95,431
+784,Product 784,Household,93,78,Brown Inc,2.48,319
+785,Product 785,Toys,41,315,Hartman-Wright,4.82,212
+786,Product 786,Electronics,71,166,Warner PLC,22.78,410
+787,Product 787,Electronics,67,388,Wilson-Pearson,43.23,189
+788,Product 788,Household,97,491,Zhang-Smith,1.59,328
+789,Product 789,Clothing,46,97,Roach Ltd,15.09,112
+790,Product 790,Electronics,89,155,Mcdonald PLC,48.01,283
+791,Product 791,Electronics,24,98,"Reyes, Gordon and Campos",43.87,135
+792,Product 792,Electronics,82,283,Smith and Sons,1.3,472
+793,Product 793,Toys,61,171,Carroll PLC,47.08,489
+794,Product 794,Household,56,459,"Tapia, Jones and Scott",17.09,248
+795,Product 795,Electronics,25,288,"Larson, Murphy and Hall",9.79,462
+796,Product 796,Clothing,51,211,"Lopez, Sutton and Jones",33.07,474
+797,Product 797,Toys,95,252,"Sims, Martin and Palmer",7.93,486
+798,Product 798,Household,77,487,Martin-Thompson,29.98,467
+799,Product 799,Toys,40,452,"Smith, Rivas and Rodriguez",30.64,445
+800,Product 800,Toys,15,415,Ritter-Wu,4.48,341
+801,Product 801,Household,91,233,"Larson, Andrews and Williams",17.75,309
+802,Product 802,Food,69,254,Mcbride Group,35.03,329
+803,Product 803,Food,91,88,"Vazquez, Miller and Stone",32.6,188
+804,Product 804,Electronics,35,438,Williamson-Larson,8.37,186
+805,Product 805,Electronics,97,133,"Anderson, Nelson and Matthews",2.15,70
+806,Product 806,Food,51,158,Rosales Inc,20.96,356
+807,Product 807,Household,81,351,Garrett-Lewis,10.81,307
+808,Product 808,Household,29,351,Ray-Preston,30.65,266
+809,Product 809,Food,36,489,"Martinez, Ellis and Murray",22.87,244
+810,Product 810,Household,51,122,"Thomas, Kerr and Miles",48.73,50
+811,Product 811,Food,54,192,"Johnson, Herring and Miller",8.99,185
+812,Product 812,Food,51,299,Carter-Barber,38.3,425
+813,Product 813,Household,83,407,"Blanchard, Ward and Edwards",10.21,380
+814,Product 814,Household,17,472,"Oconnor, Gutierrez and Green",22.58,432
+815,Product 815,Toys,7,78,Moon and Sons,12.88,111
+816,Product 816,Clothing,1,102,"Brown, Massey and Pena",24.26,189
+817,Product 817,Household,41,114,Jones-Orr,45.54,324
+818,Product 818,Household,63,84,"Brock, Zhang and Turner",31.89,413
+819,Product 819,Electronics,82,328,Randall PLC,7.1,156
+820,Product 820,Electronics,50,63,Scott Inc,45.18,51
+821,Product 821,Electronics,48,130,Barr and Sons,29.3,334
+822,Product 822,Household,77,30,Williams Group,17.34,181
+823,Product 823,Toys,92,40,Reed Ltd,44.84,216
+824,Product 824,Electronics,94,169,"White, Wheeler and Love",42.27,405
+825,Product 825,Clothing,26,223,"Bradley, Price and Lewis",7.08,147
+826,Product 826,Food,99,405,Marshall Ltd,11.67,157
+827,Product 827,Household,71,357,Gilbert-Cox,30.32,157
+828,Product 828,Food,88,86,Chapman-Barrett,25.07,217
+829,Product 829,Household,4,380,Mitchell-Griffith,37.25,350
+830,Product 830,Toys,73,76,"Heath, Mcbride and Koch",12.89,128
+831,Product 831,Electronics,10,52,"Hanna, Wright and Montgomery",6.39,452
+832,Product 832,Clothing,69,157,Brown Ltd,26.37,100
+833,Product 833,Electronics,85,372,"Cox, Everett and Hunt",24.51,177
+834,Product 834,Household,84,252,Rogers Inc,12.84,159
+835,Product 835,Electronics,87,464,Nichols-Lopez,19.84,400
+836,Product 836,Food,79,166,Johnson PLC,38.48,178
+837,Product 837,Electronics,0,332,"Martin, Ramirez and Washington",2.96,404
+838,Product 838,Clothing,59,353,"Robinson, Riley and Collier",10.95,253
+839,Product 839,Food,48,232,"Bauer, Blevins and Thompson",15.39,356
+840,Product 840,Toys,24,109,Lewis and Sons,31.6,488
+841,Product 841,Household,68,491,Hardy-Miller,18.9,448
+842,Product 842,Clothing,57,341,Curtis-Mcdonald,44.98,475
+843,Product 843,Food,83,252,Butler-Rodriguez,6.68,113
+844,Product 844,Clothing,68,422,Walker-Anderson,34.27,137
+845,Product 845,Food,30,119,"Hull, Price and Brady",16.67,276
+846,Product 846,Food,8,125,Clark Inc,6.07,360
+847,Product 847,Clothing,43,446,Davis-Black,18.02,266
+848,Product 848,Household,34,341,"Colon, Hamilton and Watson",41.56,199
+849,Product 849,Clothing,42,276,"Robertson, Murphy and Bowman",39.04,418
+850,Product 850,Toys,96,400,Crane-Washington,32.24,71
+851,Product 851,Toys,48,383,Knight-Owens,35.03,134
+852,Product 852,Clothing,72,473,Johnson-Herrera,46.01,430
+853,Product 853,Clothing,88,191,Harris and Sons,42.3,268
+854,Product 854,Clothing,40,100,"Case, Tran and Salazar",21.72,318
+855,Product 855,Household,21,499,"Villanueva, Foley and Boyer",10.88,449
+856,Product 856,Food,74,148,Hicks-Tyler,46.74,150
+857,Product 857,Food,44,212,Young-Nolan,2.26,66
+858,Product 858,Household,42,359,Potter and Sons,46.77,35
+859,Product 859,Electronics,24,383,Greene-Johnson,38.85,208
+860,Product 860,Food,62,320,"Allen, James and Garcia",43.33,370
+861,Product 861,Clothing,94,393,Chan-Shepherd,38.25,284
+862,Product 862,Toys,3,377,Cox PLC,8.8,408
+863,Product 863,Toys,24,173,"Lewis, Velez and Olson",17.42,33
+864,Product 864,Household,21,366,Dalton-Wu,4.81,149
+865,Product 865,Food,65,43,Byrd-Gamble,25.95,455
+866,Product 866,Toys,15,417,Smith and Sons,25.86,62
+867,Product 867,Toys,47,395,"Copeland, Roberts and Banks",46.71,438
+868,Product 868,Electronics,5,92,Medina LLC,47.96,418
+869,Product 869,Household,71,97,Alvarez PLC,10.22,486
+870,Product 870,Toys,4,256,Ortiz-Strickland,20.91,433
+871,Product 871,Food,55,22,Carlson Inc,42.58,332
+872,Product 872,Food,7,306,Perez-Hernandez,33.71,368
+873,Product 873,Food,15,153,Chang PLC,30.86,178
+874,Product 874,Toys,30,47,Townsend-Pierce,25.74,232
+875,Product 875,Clothing,21,94,Huerta-Gonzalez,7.54,370
+876,Product 876,Electronics,97,344,Dunlap-Lindsey,3.33,212
+877,Product 877,Household,53,499,"Fuller, Huffman and Huber",11.76,293
+878,Product 878,Clothing,30,41,"Moore, Le and Hansen",7.98,300
+879,Product 879,Food,61,327,"Rodriguez, Stewart and Campbell",3.14,480
+880,Product 880,Household,67,79,"Pitts, Andersen and Richardson",21.12,484
+881,Product 881,Household,4,414,Evans-Copeland,17.45,114
+882,Product 882,Toys,76,26,Jenkins Group,47.23,204
+883,Product 883,Clothing,33,256,"Garner, Gonzalez and Garcia",43.93,454
+884,Product 884,Clothing,11,480,Taylor Group,48.2,439
+885,Product 885,Food,85,193,"Coleman, Diaz and Jenkins",45.97,476
+886,Product 886,Toys,4,375,Hunter and Sons,14.33,235
+887,Product 887,Clothing,17,138,Hernandez and Sons,18.21,233
+888,Product 888,Household,43,446,Jackson-Patrick,6.92,330
+889,Product 889,Toys,91,82,"Moore, Weaver and Hernandez",11.47,70
+890,Product 890,Clothing,44,16,Bradshaw and Sons,49.89,459
+891,Product 891,Toys,61,209,Hill-Petersen,26.28,265
+892,Product 892,Food,56,186,"Lewis, Turner and Rivera",10.02,91
+893,Product 893,Household,90,251,"Decker, Haynes and Wood",30.58,46
+894,Product 894,Food,13,453,Craig Inc,9.41,427
+895,Product 895,Clothing,84,116,Rivas-Blake,30.87,295
+896,Product 896,Food,6,463,"Manning, Rollins and Harrington",28.34,315
+897,Product 897,Household,33,328,"Carter, Barrera and Gomez",36.76,378
+898,Product 898,Electronics,36,91,Peterson-Gonzales,37.24,85
+899,Product 899,Food,92,474,Fisher-Meyer,30.24,23
+900,Product 900,Electronics,39,471,"Stewart, Reynolds and Hoffman",26.34,223
+901,Product 901,Food,95,316,Barker-Garcia,43.9,61
+902,Product 902,Food,90,396,"Sims, Hernandez and Doyle",10.9,113
+903,Product 903,Clothing,4,486,Brown-Chung,41.24,20
+904,Product 904,Food,48,275,James Ltd,7.3,183
+905,Product 905,Food,11,250,Mejia Inc,42.03,128
+906,Product 906,Toys,21,145,Reynolds LLC,9.57,185
+907,Product 907,Household,42,255,Montoya-Donaldson,37.89,220
+908,Product 908,Electronics,34,313,Brock-Thomas,21.88,494
+909,Product 909,Clothing,34,97,"Kline, Santiago and Morris",43.79,44
+910,Product 910,Electronics,9,259,"Hess, Villanueva and Allen",37.42,138
+911,Product 911,Toys,87,153,Russell-Oneill,2.0,345
+912,Product 912,Electronics,76,327,Jones-Collins,7.27,85
+913,Product 913,Food,7,46,"Miller, Singleton and Fernandez",40.03,275
+914,Product 914,Clothing,81,455,"Mccall, Rice and Bowen",2.92,476
+915,Product 915,Electronics,19,480,Underwood-Cooper,27.24,23
+916,Product 916,Electronics,95,272,White-Rodriguez,9.68,414
+917,Product 917,Toys,78,344,Bruce PLC,7.35,461
+918,Product 918,Clothing,43,432,Armstrong-Poole,6.94,334
+919,Product 919,Clothing,28,258,Torres Inc,35.84,76
+920,Product 920,Toys,79,28,Solis Ltd,33.49,360
+921,Product 921,Electronics,39,218,Palmer PLC,39.39,346
+922,Product 922,Food,42,207,Smith Inc,28.44,315
+923,Product 923,Electronics,4,331,"Davis, Thomas and Anderson",30.42,398
+924,Product 924,Electronics,48,368,Sanders LLC,18.31,281
+925,Product 925,Household,99,164,Jenkins-Owens,42.73,403
+926,Product 926,Electronics,36,447,Anderson Ltd,18.26,480
+927,Product 927,Household,80,305,Johnson Ltd,37.8,360
+928,Product 928,Household,72,220,Morales and Sons,15.02,322
+929,Product 929,Toys,74,25,Patel-Huang,0.17,133
+930,Product 930,Household,54,457,Collins LLC,47.32,253
+931,Product 931,Food,30,437,Nunez-Wolf,9.47,257
+932,Product 932,Electronics,92,481,Hogan Ltd,12.69,36
+933,Product 933,Household,99,71,Parker and Sons,2.42,9
+934,Product 934,Food,52,437,Smith-Williams,46.92,123
+935,Product 935,Toys,81,427,Roach and Sons,30.87,13
+936,Product 936,Household,37,64,Herrera-Carter,18.28,385
+937,Product 937,Household,43,266,"Owens, Santos and Larsen",44.4,308
+938,Product 938,Household,2,35,Garcia Inc,39.18,282
+939,Product 939,Electronics,90,267,"Holland, Morales and Herring",23.9,116
+940,Product 940,Toys,60,413,Ramirez-Sampson,30.68,236
+941,Product 941,Toys,42,265,Robinson PLC,46.33,383
+942,Product 942,Food,36,36,Bray Inc,41.36,28
+943,Product 943,Toys,19,190,"Stevens, Martin and Cohen",27.72,47
+944,Product 944,Household,82,198,Hammond and Sons,23.24,274
+945,Product 945,Electronics,12,13,Daugherty LLC,15.82,215
+946,Product 946,Clothing,42,190,Santana and Sons,4.36,357
+947,Product 947,Household,95,26,Roy Inc,12.7,222
+948,Product 948,Household,70,221,"Smith, Day and Roberts",37.39,82
+949,Product 949,Electronics,2,201,Martin Ltd,0.41,180
+950,Product 950,Food,31,463,Barber-Beard,8.06,269
+951,Product 951,Toys,36,283,Woods Group,35.91,167
+952,Product 952,Toys,81,62,Garcia-Harris,35.25,441
+953,Product 953,Food,24,115,Howe-Fisher,37.25,391
+954,Product 954,Toys,95,488,Clark Group,25.61,146
+955,Product 955,Household,58,107,Lewis Inc,14.17,408
+956,Product 956,Electronics,64,243,Fowler and Sons,24.02,63
+957,Product 957,Toys,84,422,Rice and Sons,18.28,141
+958,Product 958,Clothing,16,329,Choi-Moore,46.98,51
+959,Product 959,Food,47,489,"Taylor, Hancock and Daniels",8.75,301
+960,Product 960,Food,80,114,Burns Inc,23.16,475
+961,Product 961,Household,49,390,Wilson PLC,12.4,313
+962,Product 962,Food,69,129,Bell-Anderson,23.6,482
+963,Product 963,Electronics,9,123,Smith PLC,28.69,128
+964,Product 964,Household,83,202,Miller LLC,7.66,490
+965,Product 965,Food,85,154,Miller Ltd,28.12,109
+966,Product 966,Household,0,227,"Walker, Myers and Larsen",25.75,442
+967,Product 967,Electronics,77,184,Vega-Ward,43.29,299
+968,Product 968,Toys,67,177,"Rodriguez, Houston and Parsons",47.9,119
+969,Product 969,Clothing,24,344,Owens Inc,7.07,321
+970,Product 970,Toys,38,110,Hernandez PLC,19.33,193
+971,Product 971,Household,27,17,Mcmahon-Anderson,7.87,169
+972,Product 972,Electronics,10,132,Thompson PLC,15.57,33
+973,Product 973,Electronics,39,254,"Cook, Durham and Bowen",7.11,480
+974,Product 974,Electronics,45,59,Hicks and Sons,14.99,204
+975,Product 975,Household,75,104,Daugherty and Sons,8.44,371
+976,Product 976,Household,87,423,"Cline, Browning and Brown",33.45,5
+977,Product 977,Toys,98,495,Zhang Inc,6.0,115
+978,Product 978,Electronics,78,351,Pena Ltd,31.42,289
+979,Product 979,Electronics,22,332,"Parker, Jimenez and Casey",1.18,1
+980,Product 980,Toys,95,186,Schultz and Sons,21.11,104
+981,Product 981,Food,51,378,"Allen, Garrett and Gay",42.63,268
+982,Product 982,Household,35,266,"Carter, Burnett and Meyers",11.48,27
+983,Product 983,Toys,46,273,Martinez-Stein,25.42,236
+984,Product 984,Household,48,283,"Sandoval, Ayers and George",8.6,320
+985,Product 985,Electronics,59,25,Morrison PLC,29.61,46
+986,Product 986,Toys,48,380,"Thompson, Banks and Keller",45.97,409
+987,Product 987,Clothing,46,235,Rodgers-Robinson,3.88,432
+988,Product 988,Clothing,88,364,Long Inc,2.1,184
+989,Product 989,Clothing,38,136,Ritter Ltd,7.95,260
+990,Product 990,Electronics,95,498,Johnson-Murray,19.57,50
+991,Product 991,Household,27,41,"Cruz, Jimenez and Frank",19.01,294
+992,Product 992,Food,25,157,Finley-Blevins,41.25,61
+993,Product 993,Food,11,203,Owens PLC,42.23,119
+994,Product 994,Electronics,16,90,"White, Foley and West",18.76,441
+995,Product 995,Food,99,65,Williamson PLC,18.36,428
+996,Product 996,Food,18,28,Nunez-Velasquez,49.55,197
+997,Product 997,Clothing,83,78,Rosales-Leonard,13.39,323
+998,Product 998,Food,20,423,"Anderson, Burgess and Hobbs",46.97,51
+999,Product 999,Electronics,17,81,"Cooper, Thomas and Bryant",37.9,340
+1000,Product 1000,Toys,98,18,"Church, Lang and Espinoza",28.33,108

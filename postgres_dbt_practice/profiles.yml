@@ -8,5 +8,5 @@ postgres_dbt_practice:  # This should match your dbt project name
       password: mypassword  # Password for that user
       port: 5432  # PostgreSQL is running on the default port
       dbname: mydb  # The name of the database you created
-      schema: dbt_store  # Change this if you want to use a different schema
+      schema: bronze  # Change this if you want to use a different schema
       threads: 4  # Number of threads for dbt to use

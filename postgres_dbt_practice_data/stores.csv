@@ -1,0 +1,101 @@
+Store_ID,Store_Name,City,State,Zip_Code,Manager_Name,Store_Area(sq_ft),Store_Type
+1,Cobb-Wilson,New Janet,Nebraska,17447,Tara Adams,2411,Supermarket
+2,Lewis-Mcneil,Changmouth,Pennsylvania,47286,Robert Johnson,7979,Standalone
+3,"Campbell, Cunningham and Taylor",Stephenhaven,North Dakota,57556,Carly Olson,8268,Supermarket
+4,Daniels and Sons,Ayersstad,Illinois,61810,Lori Garcia,8776,Mall
+5,Collier-Carson,East Rhonda,Texas,93913,Joel Edwards,5147,Standalone
+6,"Dixon, Nguyen and Collins",Christopherland,Massachusetts,88610,Chase Ward,3153,Standalone
+7,"Coleman, Thomas and Massey",West Tanya,Indiana,15755,Angela Evans,9554,Supermarket
+8,"Parsons, Lopez and Turner",North Jorge,Virginia,42756,Sara Jones,4259,Mall
+9,Richards and Sons,Lambmouth,Vermont,50330,Laurie Schneider,9439,Standalone
+10,"Murphy, Johnson and Conner",Johnsonfort,Ohio,35271,Christopher Hernandez,6683,Mall
+11,Rosario Inc,Alvarezview,Connecticut,02535,Angelica Burton,6096,Mall
+12,Andersen-Li,Lake Rachael,Michigan,27082,Cindy Gonzalez,9634,Mall
+13,Arnold-Juarez,East Anne,Mississippi,95326,Edward Duarte,9950,Standalone
+14,Solomon LLC,East Darlene,Kansas,30532,David Nelson,2277,Standalone
+15,Sims PLC,East Susan,Utah,65114,Katrina Dixon,7986,Standalone
+16,Harris LLC,Andreside,Rhode Island,45598,Patricia Miller,1920,Standalone
+17,"Baker, Davis and Melton",Bentonstad,Florida,05734,Antonio Miller,2312,Mall
+18,Nielsen-Bolton,Davidburgh,Utah,28562,Jeffery Daniels,5820,Standalone
+19,"Ray, Kennedy and Levine",Kelleyview,Montana,36704,Robert Cox,3444,Supermarket
+20,Collins-Cochran,Port Kelly,New York,56561,Joseph Chapman,3221,Mall
+21,"Johns, Sanchez and Ramirez",South Anthony,Texas,01894,Stephen Strickland,4014,Supermarket
+22,Berger Group,Port Heather,Wisconsin,98012,Melvin Mclaughlin,1208,Mall
+23,"Robinson, Jenkins and Monroe",Williamfurt,Kansas,96904,Mary Juarez,7116,Mall
+24,Snyder PLC,West James,Maine,94035,Brittany Ramirez,6133,Mall
+25,Diaz PLC,Johnsonton,Missouri,39686,Billy Powell,2211,Mall
+26,Mack-Williams,Samuelchester,New York,55040,Brandon Hopkins,6223,Mall
+27,Crane-Singh,South Christopherview,Connecticut,82465,Cassie Hunt,4087,Standalone
+28,"Hopkins, Briggs and Chan",East Justinland,Michigan,20582,Stephen Tanner,8188,Mall
+29,Taylor-Gutierrez,East Christineside,Tennessee,50436,Matthew Mcdonald,8753,Mall
+30,Anderson Ltd,West Aaron,Nevada,59124,Dennis Diaz,6221,Mall
+31,Morrison Ltd,East Grace,Washington,82109,Joseph Sanders,2641,Mall
+32,Perkins-Hart,Rasmussenmouth,Wyoming,44689,Kimberly Walker,1027,Supermarket
+33,"Richard, Moreno and Williams",Lake Justin,Montana,75046,Erin Brown,3754,Mall
+34,"Love, Maldonado and Sutton",South Adamshire,Alaska,98794,Andrea Odonnell,8340,Standalone
+35,"Hernandez, Kennedy and Johnston",West Charlesside,New Mexico,59682,Jessica Giles,1224,Supermarket
+36,"Le, Melton and Gordon",North Carolyn,North Dakota,54535,Mark Nelson,1363,Standalone
+37,"Luna, Beard and Snyder",Dawsonmouth,Maine,54764,Lisa Smith,2109,Mall
+38,Wood-Bailey,Port Jayland,North Dakota,74599,Robin Andrews,2294,Mall
+39,"Rodriguez, Brady and House",Gonzalezborough,Oregon,68580,Katherine Short,9878,Standalone
+40,Davis-Kennedy,Amyview,Delaware,83271,Cathy Cortez,5209,Mall
+41,"Kim, Smith and Baker",Wongview,Ohio,83482,Jacob Carroll,5625,Standalone
+42,Malone LLC,East Dennisville,Washington,63859,Brian Morris,4016,Supermarket
+43,Henry LLC,New Austin,New York,61448,Shari Floyd,7856,Mall
+44,"Coleman, Edwards and Moore",West Brian,Michigan,26550,Kimberly Thomas,6264,Mall
+45,Vargas-Christensen,Tamaraville,Missouri,03624,Michael Martinez,3289,Supermarket
+46,Cook-Cruz,Lake Stacy,New Hampshire,65555,Holly White,5981,Standalone
+47,Hardy Inc,New Kurt,Iowa,39658,James Cervantes,9865,Standalone
+48,Hodge Group,Nelsonhaven,Georgia,10960,John Butler,9449,Mall
+49,Jimenez LLC,Christinefurt,Tennessee,29357,Aaron Harris,5990,Standalone
+50,Avila-Stuart,East Larryville,Michigan,95834,Adam Allen,2700,Standalone
+51,Smith-Leblanc,Dayhaven,South Dakota,49823,Jesse Morales,3768,Supermarket
+52,"Morris, Reeves and Tucker",Avilaton,Massachusetts,29109,Diamond Baker,9625,Mall
+53,"King, Lamb and Johnson",New Lisamouth,Arkansas,45541,Margaret Herman,7081,Supermarket
+54,"Duffy, Cox and Green",Jenniferborough,New Mexico,64697,Charles Taylor,4915,Supermarket
+55,"Williams, Williams and Beck",South Dalton,Virginia,50885,Elizabeth Allen,4387,Standalone
+56,"White, Hickman and Madden",Ruizmouth,Montana,31913,Justin Watts,3342,Standalone
+57,Hamilton and Sons,East Cassandra,Vermont,07439,Richard Bryant,1621,Mall
+58,"Campbell, Walker and Santiago",West Tyler,Pennsylvania,02623,Katherine Torres,4169,Supermarket
+59,"Johnson, Murphy and Frazier",Friedmanchester,Idaho,10315,Jesus Green,6801,Standalone
+60,Martinez-Chung,Greenbury,Kentucky,29826,William Hopkins,5399,Supermarket
+61,Williams Ltd,South Jonfort,Oklahoma,05007,Caitlin Medina,5320,Mall
+62,Lewis-Robles,Port Sarahmouth,South Dakota,98863,Tonya Mcdonald,9291,Mall
+63,Whitney-Miller,West Robert,South Dakota,52292,John Bates,7398,Mall
+64,Pearson and Sons,Lake Kellyfurt,South Dakota,98825,Stephen Lawson,3196,Standalone
+65,Olson and Sons,West Shaunville,Rhode Island,93457,Michael Ruiz,5842,Mall
+66,Smith Ltd,West Matthew,Massachusetts,91286,Vanessa Jones,7052,Standalone
+67,"Blackwell, Klein and Cohen",North Joel,Alabama,24039,Meredith Walker,6143,Supermarket
+68,Clark LLC,Lake Tinabury,Kentucky,11672,Mr. Matthew Davis,1437,Supermarket
+69,Thompson LLC,New Ethanshire,Maryland,21003,Meghan Hall,1147,Standalone
+70,Cooper PLC,South Seanshire,Vermont,23677,James Miller,6666,Standalone
+71,Glass-Brown,Robertsonport,Vermont,93655,Scott Smith,7169,Standalone
+72,Moore PLC,Smithhaven,Pennsylvania,33065,Christopher Cobb,3117,Mall
+73,Dalton Ltd,Lake Catherinechester,Montana,58288,Hannah Mueller,7684,Standalone
+74,Johnson LLC,Port Wayneland,Nevada,35357,Sara Miller,5756,Mall
+75,"Hubbard, Fox and Thompson",North Barbarabury,South Carolina,69321,Sherry Woods,3232,Supermarket
+76,Floyd Group,Haroldmouth,Maryland,64573,Christine Carlson,9465,Mall
+77,"Romero, Wright and Carlson",West Kathy,Nevada,37909,Vanessa Barry,9251,Standalone
+78,Roman Ltd,Tiffanyville,Delaware,75343,Courtney Simpson,7583,Supermarket
+79,Walton Group,South Margaret,Washington,65815,George Andrews,9339,Mall
+80,Ortiz Ltd,Curtishaven,Mississippi,96019,James Rivas Jr.,4934,Standalone
+81,Murray PLC,Andrewland,Iowa,48112,Catherine Bell,1506,Standalone
+82,"Cooper, Perkins and Woods",Lambbury,New Mexico,92897,Robert Anderson,6699,Supermarket
+83,Reynolds-May,Alexton,Pennsylvania,12299,Paige Coleman,5271,Standalone
+84,Beltran Ltd,Kennethmouth,Texas,02063,John Garcia,2773,Supermarket
+85,Bradshaw Ltd,New Ginaton,Oklahoma,94521,Timothy Thompson,6556,Standalone
+86,Beasley-Brown,Dannyville,Virginia,83532,Julie Mahoney,9702,Mall
+87,Glenn and Sons,Wilsonstad,Nevada,27663,Kenneth Sosa,4265,Supermarket
+88,"Barajas, Jackson and Holland",Howardbury,Maine,50604,Mary Eaton,5922,Supermarket
+89,Mckee Inc,Michaelberg,Indiana,29555,Carlos Daniels,4986,Supermarket
+90,Price-Scott,Stephanieside,Nevada,60251,Michael Rivera,8455,Mall
+91,"Diaz, Hoffman and Wolfe",New Sharon,Georgia,31220,Emily Brown,9663,Standalone
+92,"Johnson, Webb and Foster",Port Hannahchester,North Carolina,70162,Michaela Meadows,5763,Standalone
+93,Marks-Acosta,South Manueltown,Arkansas,34139,Justin Larson,5006,Standalone
+94,Butler-Sanchez,Martinfurt,Louisiana,61566,William Hill,8482,Mall
+95,Washington-Irwin,Port Katie,Wyoming,11539,Keith Pena,3188,Standalone
+96,Lee LLC,Adamsville,Colorado,80516,Vicki Knapp,1657,Mall
+97,Stanley PLC,North Joseph,Georgia,61161,Michael Stokes,3543,Supermarket
+98,"Wong, Wheeler and Luna",Lake Sabrina,Arizona,73472,Hayden Shea,7609,Mall
+99,Moss Ltd,New Heather,Pennsylvania,53169,William Shelton,2974,Standalone
+100,Estes Group,Odomville,Ohio,57624,Charles Maxwell,9367,Standalone
