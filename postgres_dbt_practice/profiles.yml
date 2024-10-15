@@ -1,4 +1,4 @@
-postgres_dbt_practice:  # This should match your dbt project name
+postgres_dbt_practice:
   target: dev
   outputs:
     dev:
