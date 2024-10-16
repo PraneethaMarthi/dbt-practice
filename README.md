@@ -56,3 +56,7 @@ CSV HEADER;
 SELECT * FROM customers;
 
 1000-Products,100-Stores,100k-Sales,1000-Customers
+
+# Silver models will only be views that perform the necessary data cleaning and transformations. These views will act as intermediate steps, but they won’t be physically stored as tables.
+Gold models will be the actual materialized tables (facts and dimensions) that are ready for analytics.
+
